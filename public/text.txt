@@ -1,0 +1,9 @@
+home page
+checkout page
+total price in cart
+more checkout page
+login page
+auth
+username checkout page
+deploying app
+react-flip
